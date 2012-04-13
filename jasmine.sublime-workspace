@@ -1,0 +1,297 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"_move",
+				"_movementTime"
+			],
+			[
+				"safurt",
+				"safurt_object"
+			],
+			[
+				"_get",
+				"_getTimeOut"
+			],
+			[
+				"tim",
+				"timeout	setTimeout function"
+			],
+			[
+				"DO",
+				"DOWN_ARROW"
+			],
+			[
+				"collision",
+				"Collision"
+			],
+			[
+				"grass",
+				"grassType"
+			],
+			[
+				"s",
+				"sublimetext"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 348.0,
+		"selected_items":
+		[
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"upgr",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"upgrade",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"tag",
+				"Tag: Auto-Format Tags on Selection"
+			],
+			[
+				"html",
+				"Set Syntax: HTML5"
+			],
+			[
+				"esca",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"upgra",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"com",
+				"Toggle Block Comment"
+			],
+			[
+				"java",
+				"Format: Javascript"
+			],
+			[
+				"js",
+				"Format: Javascript"
+			],
+			[
+				"pa",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 132.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/ifthenelse/Progetti/fluidforfun/sito/www/htdocs/tl_files/works.json",
+		"/home/ifthenelse/Documenti/LD_ip.txt",
+		"/home/ifthenelse/Scaricati/SimpleAjax.php",
+		"/home/ifthenelse/Scaricati/ContentSliderJquery.php",
+		"/var/lib/apt/lists/archive.canonical.com_ubuntu_dists_oneiric_partner_binary-i386_Packages",
+		"/var/lib/apt/lists/archive.canonical.com_ubuntu_dists_oneiric_partner_binary-amd64_Packages",
+		"/home/ifthenelse/.gconf/desktop/gnome/session/required-components/%gconf.xml",
+		"/home/ifthenelse/.gconf/desktop/gnome/session/required_components/%gconf.xml",
+		"/home/ifthenelse/.config/autostart/docky.desktop",
+		"/usr/share/metacity/icons/metacity-window-demo.png",
+		"/usr/share/X11/xorg.conf.d/51-synaptics-quirks.conf",
+		"/usr/share/X11/xorg.conf.d/50-synaptics.conf",
+		"/home/ifthenelse/Progetti/fluidforfun/sito/www/htdocs/phpinfo.php",
+		"/home/ifthenelse/Progetti/Prove/Crafty/0001/index.php",
+		"/home/ifthenelse/Progetti/Prove/Crafty/0001/js/crafty.js",
+		"/home/ifthenelse/Progetti/Prove/Crafty/0001/js/game.js",
+		"/home/ifthenelse/Progetti/Prove/Crafty/0001/index.html",
+		"/home/ifthenelse/Progetti/Prove/Crafty/0001/assets/character_linear.png",
+		"/etc/X11/xorg.conf.old",
+		"/home/ifthenelse/.gnomerc",
+		"/home/ifthenelse/.config/sublime-text-2/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/ifthenelse/Progetti/Prove/Crafty/0001/js/crafty-min.js",
+		"/etc/phpmyadmin/config.inc.php",
+		"/var/lib/phpmyadmin/config.inc.php",
+		"/var/lib/phpmyadmin/blowfish_secret.inc.php",
+		"/etc/apache2/httpd.conf",
+		"/home/ifthenelse/.bash_profile",
+		"/home/ifthenelse/.config/sublime-text-2/Packages/User/Distraction Free.sublime-settings",
+		"/etc/apache2/apache2.conf",
+		"/etc/apache2/sites-available/fluidforfun",
+		"/home/ifthenelse/Progetti/fluidforfun/sito/www/htdocs/.htaccess"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"↵",
+			"\\'",
+			"link",
+			"url",
+			"archive.canonical.com",
+			"archive.canonical.ubuntu",
+			"class=\"transitions\" ",
+			"metacity",
+			"deco",
+			"decor",
+			"decora",
+			"decorator",
+			"theme",
+			"console.log",
+			") {",
+			"300",
+			".keys",
+			"_keyDirection",
+			"Player",
+			"_enterframe",
+			"Multiway",
+			"arguments",
+			"SpriteAnimation",
+			"onHit",
+			"dir",
+			");",
+			"dire",
+			"Moved",
+			"NewDirection",
+			"bind('NewDirection",
+			"NewDirection",
+			"multiway",
+			");",
+			"();",
+			"open",
+			"browser"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"&#39;",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 32.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 189.0,
+	"status_bar_visible": true
+}
