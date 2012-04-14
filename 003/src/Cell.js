@@ -1,15 +1,16 @@
-function Cell() {
+function Cell(px, py) {
+	var x, y, state;
+	this.setPos(px, py);
+	return(this.x + ", " + this.y);
 }
 
-Cell.prototype.constructor = function(al) {
-	var alive = false;
-	if (!!al) {
-		alive = true;
-	}
-	return "Cell!";
+Cell.prototype.setPos = function(px, py) {
+	this.x = px;
+	this.y = py;
 }
 
-//	Scrive lo stato della cella
-Cell.prototype.setStatus = function() {
-
+Cell.prototype.getState = function(px, py) {
+	return this.state;
 }
+
+obj = new Cell(0, 0);
